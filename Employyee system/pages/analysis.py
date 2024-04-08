@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Read the dataset from Excel
-data = pd.read_csv('C:\Users\LogicFiveZW\Desktop\Crime Analysis Project\pages')
+data = pd.read_csv(r'C:\Users\LogicFiveZW\Desktop\Employyee system\pages')
 
 
 # Page title
